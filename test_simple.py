@@ -1,7 +1,11 @@
 
-def test_1():
+def test_one():
     assert 2 > 1
 
+    
+def test_two():
+    assert 2 > 1
 
-def test_2():
+    
+def test_three():
     assert 2 > 1
